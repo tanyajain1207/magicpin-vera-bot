@@ -16,8 +16,8 @@ LLM_TIMEOUT_SECONDS: int = 25      # must respond to judge in <30s
 
 # ─── Team Metadata ─────────────────────────────────────────────────────────────
 TEAM_NAME: str = "VeraPlus"
-TEAM_MEMBERS: list[str] = ["Candidate"]
-CONTACT_EMAIL: str = os.getenv("CONTACT_EMAIL", "candidate@example.com")
+TEAM_MEMBERS: list[str] = ["Tanya Jain"]
+CONTACT_EMAIL: str = os.getenv("CONTACT_EMAIL", "7440tanyajain@gmail.com")
 BOT_VERSION: str = "2.0.0"
 SUBMITTED_AT: str = "2026-08-22T08:00:00Z"
 APPROACH: str = (
