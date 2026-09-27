@@ -106,4 +106,4 @@ python generate_submission.py
 ```
 
 ## Deployed URL
-See submission portal.
+magicpin-ai-challenge.up.railway.app
